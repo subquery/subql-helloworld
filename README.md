@@ -37,7 +37,7 @@ yarn build
 ### 5. Run locally
 
 ```shell
-yarn start:docker
+docker-compose pull & docker-compose up
 ```
 
 ### 5. Example query to run

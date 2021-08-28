@@ -40,7 +40,7 @@ yarn build
 docker-compose pull & docker-compose up
 ```
 
-### 5. Example query to run
+### 6. Example query to run
 
 ```shell
 query{

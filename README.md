@@ -34,13 +34,17 @@ yarn codegen
 yarn build
 ```
 
-### 5. Run locally
+### 5. Start Docker
 
 ```shell
 docker-compose pull & docker-compose up
 ```
 
-### 5. Example query to run
+### 6. Run locally
+
+Open http://localhost:3000/ on your browser
+
+### 7. Example query to run
 
 ```shell
 query{
